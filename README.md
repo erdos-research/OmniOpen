@@ -28,7 +28,7 @@ Where honesty and openness go, goodness follows.
   + [Source Attribution and Notification](#source-attribution-and-notification)
 
 ## 🪜 Certification Tiers
-OmniOpen certification is self-assessed. To be listed in under the [certified projects](#-certified-projects) section below, please submit an issue under the tag `certification`.
+OmniOpen certification is self-assessed. To be listed in under the [certified projects](#-certified-projects) section below, please submit an issue under the label `certification`.
 
 ### OmniOpen Platinum 
 #### Requirements
