@@ -2,7 +2,7 @@
 
 # The OmniOpen Initiative
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![OmniOpen Platinum](./badges/platinum)](https://concurrent.studio/omniopen#platinum)
+[![OmniOpen Platinum](./badges/platinum.svg)](https://concurrent.studio/omniopen#platinum)
 
 The Open Source Software Movement is both necessary and good.
 It has increased the democratization of knowledge, created vast economic growth, and catalyzed the development of myriad new technologies.
