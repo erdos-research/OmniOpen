@@ -23,3 +23,6 @@ The code of conduct for this project is derived from [Twitter OSS's Code of Cond
 
 ## [OmniOpen Logo](./graphics/OmniOpen.min.svg)
 The O2 logo was directly inspired by [Michele Spera](http://www.designculture.it/interview/michele-spera.html)'s and [Mimmo Castellano](http://www.museodelmarchioitaliano.com/route4/mimmo-castellano.php)'s 1972 Comitato Olimpico Nazionale Italiano [logo](http://www.logobook.com/logo/c-o-n-i-25/). The *2*'s in these logos are nearly identical. 
+
+## [OmniOpen Badges](./badges)
+OmniOpen certification badges were generated using [shields.io](https://shields.io/), but because the inclusion of our O2 logo made the badge URLs excessively long, the SVGs were saved directly in this repo.
