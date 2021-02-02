@@ -1,6 +1,7 @@
 # Sources
-This work stands on the shoulders of giants.
-Much of the inspiration for this project comes from [Aaron Swartz](https://archive.org/details/GuerillaOpenAccessManifesto) and his heroic dedication to the democratization of knowledge.
+This work stands on the shoulders of giants. Much of the inspiration for this project comes from
+[Aaron Swartz](https://archive.org/details/GuerillaOpenAccessManifesto) and his heroic dedication to
+the democratization of knowledge.
 
 ## [README.md](./README.md)
 - [Creative Commons' Definition of Public Domain](https://wiki.creativecommons.org/wiki/public_domain)
@@ -19,10 +20,16 @@ Much of the inspiration for this project comes from [Aaron Swartz](https://archi
 - [Atom's Contribution Guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 
 ## [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-The code of conduct for this project is derived from [Twitter OSS's Code of Conduct](https://github.com/twitter/code-of-conduct/blob/master/code-of-conduct.md). We thank them greatly for their work.
+The code of conduct for this project is derived from [Twitter OSS's Code of
+Conduct](https://github.com/twitter/code-of-conduct/blob/master/code-of-conduct.md). We thank them
+greatly for their work.
 
 ## [OmniOpen Logo](./graphics/OmniOpen.min.svg)
-The O2 logo was directly inspired by [Michele Spera](http://www.designculture.it/interview/michele-spera.html)'s and [Mimmo Castellano](http://www.museodelmarchioitaliano.com/route4/mimmo-castellano.php)'s 1972 Comitato Olimpico Nazionale Italiano [logo](http://www.logobook.com/logo/c-o-n-i-25/). The *2*'s in these logos are nearly identical. 
+The O2 logo was directly inspired by [Michele Spera](http://www.designculture.it/interview/michele-spera.html)'s and [Mimmo Castellano](http://www.museodelmarchioitaliano.com/route4/mimmo-castellano.php)'s
+1972 Comitato Olimpico Nazionale Italiano [logo](http://www.logobook.com/logo/c-o-n-i-25/). The 
+*2*'s in these logos are nearly identical.
 
 ## [OmniOpen Badges](./badges)
-OmniOpen certification badges were generated using [shields.io](https://shields.io/), but because the inclusion of our O2 logo made the badge URLs excessively long, the SVGs were saved directly in this repo.
+OmniOpen certification badges were generated using [shields.io](https://shields.io/), but because
+the inclusion of our O2 logo made the badge URLs excessively long, the SVGs were saved directly in
+this repo.
